@@ -1,1 +1,1 @@
- Assignment 4 – Birthday Card 🎂
+This is a animated birthday card created using HTML and CSS .
